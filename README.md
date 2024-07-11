@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ProjectTeam-04
 ## Dynamic Online Feedback System
 
@@ -55,3 +56,7 @@ The project's progress and task management were organized using Trello. You can 
 Thank you for checking out the Dynamic Online Feedback System. We hope this project demonstrates our commitment to developing practical and user-friendly applications. If you have any questions or feedback, please feel free to contact us.
 ` in your preferred web browser to view the application.
 
+=======
+# Project4-Dynamic-Feedback-System
+The 4th project at orange coding academy 
+>>>>>>> 3ec13f1285af907b9088f86d15bfdca7fd8da459
